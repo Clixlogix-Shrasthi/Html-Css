@@ -1,0 +1,16 @@
+.rowFilter {
+  background: #125fa8;
+  border-radius: 16px;
+  height: 54px;
+  padding: 10px;
+}
+
+.selectStyle{
+    color: white;
+    border: none;
+    background: none;
+}
+
+.lableStyle{
+    color: white;
+}

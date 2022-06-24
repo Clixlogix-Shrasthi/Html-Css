@@ -1,0 +1,33 @@
+.textColor {
+  color: #ff4b22;
+}
+
+.col1border {
+  border: 1px dashed #ff6842 !important;
+  height: 120px;
+  width: 120px;
+  border-radius: 16px;
+}
+
+.lableSize {
+  font-size: 90px;
+  font-weight: 200;
+  color: #ff6842;
+}
+
+.borderRadius {
+  border-radius: 16px;
+}
+
+.bottomLeft{
+  position: absolute;
+  bottom: 8px;
+  left: 21px;
+  height: 16px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+}
